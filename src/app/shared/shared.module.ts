@@ -6,7 +6,7 @@ import { AppRoutingModule } from '../app-routing.module';
 
 @NgModule({
 	declarations: [RegisterComponent],
-	imports: [CommonModule, AppRoutingModule],
+	imports: [CommonModule, AppRoutingModule, RouterModule],
 	exports: [RegisterComponent],
 })
 export class SharedModule {}

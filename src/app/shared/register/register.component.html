@@ -23,7 +23,7 @@
 						</div>
 
 						<div class="col-sm-4">
-							<label for="firstName" class="form-label"
+							<label for="middleName" class="form-label"
 								>Middle name</label
 							>
 							<input
@@ -97,7 +97,7 @@
 
 						<div class="col-12">
 							<label for="email" class="form-label"
-								>Email
+								>University Email Address
 								<!-- <span class="text-body-secondary">
 									(Optional)
 								</span> -->
@@ -115,13 +115,13 @@
 						</div>
 
 						<div class="col-12">
-							<label for="mobile number" class="form-label">
+							<label for="contactNumber" class="form-label">
 								Contact Number (OTP)
 							</label>
 							<input
 								type="tel"
 								class="form-control"
-								id="mobile"
+								id="contactNumber"
 								placeholder=""
 								required=""
 							/>
@@ -145,13 +145,13 @@
 						</div>
 
 						<div class="col-12">
-							<label for="mobile number" class="form-label">
+							<label for="whatsAppNumber" class="form-label">
 								Contact Number (WhatsApp)
 							</label>
 							<input
 								type="tel"
 								class="form-control"
-								id="mobile"
+								id="whatsAppNumber"
 								placeholder=""
 								required=""
 								disabled
@@ -177,7 +177,7 @@
 						</div> -->
 
 						<div class="col-md-5">
-							<label for="country" class="form-label"
+							<label for="department" class="form-label"
 								>Department</label
 							>
 							<select
@@ -196,7 +196,9 @@
 						</div>
 
 						<div class="col-md-4">
-							<label for="state" class="form-label">Course</label>
+							<label for="course" class="form-label"
+								>Course</label
+							>
 							<select class="form-select" id="course" required="">
 								<option value="">Choose...</option>
 								<option>BCA</option>
@@ -242,7 +244,6 @@
 									name="genderSelect"
 									type="radio"
 									class="form-check-input"
-									checked=""
 									required=""
 								/>
 								<label class="form-check-label" for="female"
@@ -250,11 +251,41 @@
 								>
 							</span>
 						</div>
+						<div class="col-sm-12">
+							<label for="gender" class="form-label col-12"
+								>Residence</label
+							>
+							<span class="col-sm-2 form-check form-check-inline">
+								<input
+									id="hosteler"
+									name="residenceSelect"
+									type="radio"
+									class="form-check-input"
+									checked=""
+									required=""
+								/>
+								<label class="form-check-label" for="hosteler"
+									>Hosteler</label
+								>
+							</span>
+							<span class="col-sm-2 form-check form-check-inline">
+								<input
+									id="dayScholar"
+									name="residenceSelect"
+									type="radio"
+									class="form-check-input"
+									required=""
+								/>
+								<label class="form-check-label" for="dayScholar"
+									>Day-Scholar</label
+								>
+							</span>
+						</div>
 					</div>
 
 					<hr class="my-4" />
 
-					<div class="form-check">
+					<div class="form-check mb-4">
 						<input
 							type="checkbox"
 							class="form-check-input"
@@ -262,17 +293,6 @@
 						/>
 						<label class="form-check-label" for="same-address"
 							>All information is up to date</label
-						>
-					</div>
-
-					<div class="form-check">
-						<input
-							type="checkbox"
-							class="form-check-input"
-							id="save-info"
-						/>
-						<label class="form-check-label" for="save-info"
-							>Save this information for next time</label
 						>
 					</div>
 
