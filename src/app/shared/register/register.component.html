@@ -1,5 +1,286 @@
 <div class="container">
-	<div class="row">
-		<div class="col"></div>
+	<div class="row mt-4">
+		<div class="col">
+			<div>
+				<h4 class="mb-3">Register</h4>
+				<form class="needs-validation" novalidate="">
+					<div class="row g-3">
+						<div class="col-sm-4">
+							<label for="firstName" class="form-label"
+								>First name</label
+							>
+							<input
+								type="text"
+								class="form-control"
+								id="firstName"
+								placeholder=""
+								value=""
+								required=""
+							/>
+							<div class="invalid-feedback">
+								Valid first name is required.
+							</div>
+						</div>
+
+						<div class="col-sm-4">
+							<label for="firstName" class="form-label"
+								>Middle name</label
+							>
+							<input
+								type="text"
+								class="form-control"
+								id="middleName"
+								placeholder=""
+								value=""
+								required=""
+							/>
+							<div class="invalid-feedback">
+								Valid middle name is required.
+							</div>
+						</div>
+
+						<div class="col-sm-4">
+							<label for="lastName" class="form-label"
+								>Last name</label
+							>
+							<input
+								type="text"
+								class="form-control"
+								id="lastName"
+								placeholder=""
+								value=""
+								required=""
+							/>
+							<div class="invalid-feedback">
+								Valid last name is required.
+							</div>
+						</div>
+						<div class="col-12">
+							<label
+								for="universityRollNumber"
+								class="form-label"
+							>
+								University Roll Number
+							</label>
+							<input
+								type="text"
+								class="form-control"
+								id="universityRollNumber"
+								placeholder=""
+								value=""
+								required=""
+							/>
+							<div class="invalid-feedback">
+								Valid university roll number is required.
+							</div>
+						</div>
+
+						<div class="col-12">
+							<!-- TODO check a valid username by calling an API -->
+							<label for="username" class="form-label">
+								Username
+							</label>
+							<div class="input-group has-validation">
+								<span class="input-group-text">@</span>
+								<input
+									type="text"
+									class="form-control"
+									id="username"
+									placeholder="Username"
+									required=""
+								/>
+								<div class="invalid-feedback">
+									A valid username is required.
+								</div>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<label for="email" class="form-label"
+								>Email
+								<!-- <span class="text-body-secondary">
+									(Optional)
+								</span> -->
+							</label>
+							<input
+								type="email"
+								class="form-control"
+								id="email"
+								placeholder="you@example.com"
+							/>
+							<div class="invalid-feedback">
+								Please enter a valid email address for event
+								updates.
+							</div>
+						</div>
+
+						<div class="col-12">
+							<label for="mobile number" class="form-label">
+								Contact Number (OTP)
+							</label>
+							<input
+								type="tel"
+								class="form-control"
+								id="mobile"
+								placeholder=""
+								required=""
+							/>
+							<div class="invalid-feedback">
+								Please enter your valid mobile number.
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-check">
+								<input
+									type="checkbox"
+									class="form-check-input"
+									id="save-info"
+									checked
+								/>
+								<label class="form-check-label" for="save-info">
+									same as previous
+								</label>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<label for="mobile number" class="form-label">
+								Contact Number (WhatsApp)
+							</label>
+							<input
+								type="tel"
+								class="form-control"
+								id="mobile"
+								placeholder=""
+								required=""
+								disabled
+							/>
+							<div class="invalid-feedback">
+								Please enter your valid mobile number.
+							</div>
+						</div>
+
+						<!-- <div class="col-12">
+							<label for="address2" class="form-label"
+								>Address 2
+								<span class="text-body-secondary"
+									>(Optional)</span
+								></label
+							>
+							<input
+								type="text"
+								class="form-control"
+								id="address2"
+								placeholder="Apartment or suite"
+							/>
+						</div> -->
+
+						<div class="col-md-5">
+							<label for="country" class="form-label"
+								>Department</label
+							>
+							<select
+								class="form-select"
+								id="department"
+								required=""
+							>
+								<option value="">Choose...</option>
+								<option>
+									Computer Engineering [&] Applications
+								</option>
+							</select>
+							<div class="invalid-feedback">
+								Please select a valid department.
+							</div>
+						</div>
+
+						<div class="col-md-4">
+							<label for="state" class="form-label">Course</label>
+							<select class="form-select" id="course" required="">
+								<option value="">Choose...</option>
+								<option>BCA</option>
+							</select>
+							<div class="invalid-feedback">
+								Please provide a valid course.
+							</div>
+						</div>
+
+						<div class="col-md-3">
+							<label for="year" class="form-label">Year</label>
+							<input
+								type="text"
+								class="form-control"
+								id="year"
+								placeholder=""
+								required=""
+							/>
+							<div class="invalid-feedback">
+								Year is required.
+							</div>
+						</div>
+						<div class="col-sm-12">
+							<label for="gender" class="form-label col-12"
+								>Gender</label
+							>
+							<span class="col-sm-2 form-check form-check-inline">
+								<input
+									id="male"
+									name="genderSelect"
+									type="radio"
+									class="form-check-input"
+									checked=""
+									required=""
+								/>
+								<label class="form-check-label" for="male"
+									>Male</label
+								>
+							</span>
+							<span class="col-sm-2 form-check form-check-inline">
+								<input
+									id="female"
+									name="genderSelect"
+									type="radio"
+									class="form-check-input"
+									checked=""
+									required=""
+								/>
+								<label class="form-check-label" for="female"
+									>Female</label
+								>
+							</span>
+						</div>
+					</div>
+
+					<hr class="my-4" />
+
+					<div class="form-check">
+						<input
+							type="checkbox"
+							class="form-check-input"
+							id="same-address"
+						/>
+						<label class="form-check-label" for="same-address"
+							>All information is up to date</label
+						>
+					</div>
+
+					<div class="form-check">
+						<input
+							type="checkbox"
+							class="form-check-input"
+							id="save-info"
+						/>
+						<label class="form-check-label" for="save-info"
+							>Save this information for next time</label
+						>
+					</div>
+
+					<button class="w-100 btn btn-primary btn-lg" type="submit">
+						Register
+					</button>
+				</form>
+			</div>
+		</div>
 	</div>
 </div>
