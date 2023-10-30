@@ -323,12 +323,18 @@
 					</button>
 					<hr class="my-4" />
 
-					<button
-						class="w-100 btn btn-outline-primary btn-lg my-4"
-						type="button"
+					<a
+						class="text-decoration-none text-white"
+						[routerLink]="['/login']"
+						routerLinkActive="router-link-active"
 					>
-						Login
-					</button>
+						<button
+							class="w-100 btn btn-warning btn-lg my-4 border text-white"
+							type="button"
+						>
+							Login
+						</button>
+					</a>
 				</form>
 			</div>
 		</div>

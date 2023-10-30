@@ -46,10 +46,17 @@
 				Login
 			</button>
 			<hr class="my-4" />
-
-			<button class="btn btn-outline-primary w-100 py-2" type="button">
-				Register
-			</button>
+			<a
+				[routerLink]="['/register']"
+				routerLinkActive="router-link-active"
+			>
+				<button
+					class="btn btn-outline-primary w-100 py-2"
+					type="button"
+				>
+					Register
+				</button>
+			</a>
 		</div>
 	</div>
 </div>
