@@ -1,16 +1,24 @@
 <div class="container">
 	<div class="row">
-		<div class="col">
-			<div class="d-inline col-8">
-				<input
-					class="form-control me-2"
-					type="search"
-					placeholder="Search"
-					aria-label="Search"
-				/>
-				<button class="btn btn-outline-success" type="submit">
-					Search
-				</button>
+		<div class="col align-items-center mt-5">
+			<div class="col">
+				<div class="row mx-auto align-items-center">
+					<div class="col-9">
+						<input
+							type="text"
+							name="eventSearch"
+							id="eventSearch"
+							class="form-control"
+							placeholder="search events"
+						/>
+					</div>
+
+					<div class="col-3">
+						<button type="button" class="btn btn-primary col-12">
+							search
+						</button>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -18,14 +26,15 @@
 		<div class="col">
 			<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 mt-5">
 				<div class="col" *ngFor="let event of events">
-					<div class="card shadow-sm">
+					<div class="card shadow-sm btn border shadow-sm">
 						<img
 							src="../../../assets/images/event-card.svg"
 							class="bd-placeholder-img card-img-top"
 							alt=""
 						/>
-
+						<hr class="mb-1" />
 						<div class="card-body">
+							<h5 class="card-title fw-bold">Event Title</h5>
 							<p class="card-text">
 								the events are part of our massive culture
 							</p>
@@ -46,9 +55,9 @@
 										Edit
 									</button>
 								</div>
-								<small class="text-body-secondary"
-									>24 hrs</small
-								>
+								<small class="text-body-secondary">
+									{{ today | date : "EEEE dd/MM/yyyy" }}
+								</small>
 							</div>
 						</div>
 					</div>

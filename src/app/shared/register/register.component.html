@@ -5,13 +5,12 @@
 				<h4 class="mb-3">Register</h4>
 				<form class="needs-validation" novalidate="">
 					<div class="row g-3">
-						<div class="form-floating col-sm-4">
+						<div class="col-sm-4">
 							<label for="firstName">First name</label>
 							<input
 								type="text"
 								class="form-control"
 								id="firstName"
-								placeholder="First name"
 								value=""
 								required=""
 							/>
@@ -20,13 +19,12 @@
 							</div>
 						</div>
 
-						<div class="form-floating col-sm-4">
+						<div class="col-sm-4">
 							<label for="middleName">Middle name</label>
 							<input
 								type="text"
 								class="form-control"
 								id="middleName"
-								placeholder="Middle Name"
 								value=""
 								required=""
 							/>
@@ -35,13 +33,12 @@
 							</div>
 						</div>
 
-						<div class="form-floating col-sm-4">
+						<div class="col-sm-4">
 							<label for="lastName">Last name</label>
 							<input
 								type="text"
 								class="form-control"
 								id="lastName"
-								placeholder="Last Name"
 								value=""
 								required=""
 							/>
@@ -49,87 +46,60 @@
 								Valid last name is required.
 							</div>
 						</div>
-						<div class="form-floating col-12">
-							<label for="universityRollNumber">
-								University roll number
-							</label>
+						<div class="row">
+							<div class="col-6 mt-4">
+								<label for="universityRollNumber">
+									University roll number
+								</label>
+								<input
+									type="text"
+									class="form-control"
+									id="universityRollNumber"
+									value=""
+									required=""
+								/>
+								<div class="invalid-feedback">
+									Valid university roll number is required.
+								</div>
+							</div>
+							<div class="col-6">
+								<div class="input-group mt-5 mb-3">
+									<input
+										type="text"
+										class="form-control"
+										aria-label="email"
+										aria-describedby="basic-addon2"
+										placeholder="University Email Address"
+									/>
+									<span
+										class="input-group-text"
+										id="basic-addon2"
+										>@gla.ac.in</span
+									>
+									<div class="invalid-feedback">
+										Please enter a valid email address for
+										event updates.
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- TODO check a valid username by calling an API -->
+
+						<div class="input-group has-validation">
+							<span class="input-group-text">@</span>
 							<input
 								type="text"
 								class="form-control"
-								id="universityRollNumber"
-								placeholder="University roll number"
-								value=""
+								id="username"
+								placeholder="Username"
 								required=""
 							/>
 							<div class="invalid-feedback">
-								Valid university roll number is required.
+								A valid username is required.
 							</div>
 						</div>
 
 						<div class="col-12">
-							<!-- TODO check a valid username by calling an API -->
-							<label for="username" class="form-label"> </label>
-							<div class="input-group has-validation">
-								<span class="input-group-text">@</span>
-								<input
-									type="text"
-									class="form-control"
-									id="username"
-									placeholder="Username"
-									required=""
-								/>
-								<div class="invalid-feedback">
-									A valid username is required.
-								</div>
-							</div>
-							<label for="email" class="form-label"> </label>
-							<div class="input-group col-sm-4 mb-3">
-								<input
-									type="text"
-									class="form-control"
-									aria-label="email"
-									aria-describedby="basic-addon2"
-									placeholder="University Email Address"
-								/>
-								<span class="input-group-text" id="basic-addon2"
-									>@gla.ac.in</span
-								>
-								<div class="invalid-feedback">
-									Please enter a valid email address for event
-									updates.
-								</div>
-							</div>
-							<div class="col-12">
-								<div class="form-floating mb-3">
-									<label for="password" class="form-label"
-										>Password</label
-									>
-									<input
-										type="password"
-										class="form-control"
-										id="password"
-										placeholder="Password"
-									/>
-								</div>
-								<div class="form-floating mb-1">
-									<label
-										for="conformPassword"
-										class="form-label"
-										>Confirm Password</label
-									>
-									<input
-										type="password"
-										class="form-control"
-										id="conformPassword"
-										placeholder="Conform password"
-									/>
-								</div>
-							</div>
-
-							<div class="col-12"></div>
-						</div>
-
-						<div class="form-floating col-12">
 							<label for="contactNumber">
 								Contact Number (OTP)
 							</label>
@@ -137,7 +107,6 @@
 								type="tel"
 								class="form-control"
 								id="contactNumber"
-								placeholder="Contact Number (OTP)"
 								required=""
 							/>
 							<div class="invalid-feedback">
@@ -159,7 +128,7 @@
 							</div>
 						</div>
 
-						<div class="form-floating col-12">
+						<div class="col-12">
 							<label for="whatsAppNumber" class="form-label">
 								Contact Number (WhatsApp)
 							</label>
@@ -167,7 +136,6 @@
 								type="tel"
 								class="form-control"
 								id="whatsAppNumber"
-								placeholder="Contact Number (WhatsApp)"
 								required=""
 								disabled
 							/>
@@ -298,6 +266,28 @@
 							</span>
 						</div>
 					</div>
+					<div class="row mt-4">
+						<div class="col-4 mb-3">
+							<label for="password" class="form-label"
+								>Password</label
+							>
+							<input
+								type="password"
+								class="form-control"
+								id="password"
+							/>
+						</div>
+						<div class="col-4 mb-3">
+							<label for="conformPassword" class="form-label"
+								>Confirm Password</label
+							>
+							<input
+								type="password"
+								class="form-control"
+								id="conformPassword"
+							/>
+						</div>
+					</div>
 
 					<hr class="my-4" />
 
@@ -323,7 +313,7 @@
 						routerLinkActive="router-link-active"
 					>
 						<button
-							class="w-100 btn btn-warning btn-lg my-4 border"
+							class="w-100 btn btn-warning text-white btn-lg my-4 border"
 							type="button"
 						>
 							Login

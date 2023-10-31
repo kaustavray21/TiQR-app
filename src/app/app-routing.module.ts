@@ -33,6 +33,10 @@ const routes: Routes = [
 		component: EventsComponent,
 	},
 	{
+		path: 'events/:id',
+		component: EventsComponent,
+	},
+	{
 		path: '**',
 		component: PageNotFoundComponent,
 	},
