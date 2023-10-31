@@ -6,10 +6,11 @@ import { AppRoutingModule } from '../app-routing.module';
 import { LoginComponent } from './login/login.component';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 import { ResetPasswordComponent } from './reset-password/reset-password.component';
+import { EventsComponent } from './events/events.component';
 
 @NgModule({
-	declarations: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent],
+	declarations: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent],
 	imports: [CommonModule, AppRoutingModule, RouterModule],
-	exports: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent],
+	exports: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent],
 })
 export class SharedModule {}
