@@ -5,6 +5,7 @@ import { LoginComponent } from './shared/login/login.component';
 import { ForgotPasswordComponent } from './shared/forgot-password/forgot-password.component';
 import { ResetPasswordComponent } from './shared/reset-password/reset-password.component';
 import { EventsComponent } from './shared/events/events.component';
+import { PageNotFoundComponent } from './shared/page-not-found/page-not-found.component';
 
 const routes: Routes = [
 	{
@@ -30,6 +31,10 @@ const routes: Routes = [
 	{
 		path: 'events',
 		component: EventsComponent,
+	},
+	{
+		path: '**',
+		component: PageNotFoundComponent,
 	},
 ];
 
