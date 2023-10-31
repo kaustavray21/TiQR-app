@@ -8,6 +8,10 @@ import { EventsComponent } from './shared/events/events.component';
 
 const routes: Routes = [
 	{
+		path: '',
+		component: EventsComponent,
+	},
+	{
 		path: 'register',
 		component: RegisterComponent,
 	},
