@@ -3,17 +3,15 @@
 		<div class="col">
 			<div>
 				<h4 class="mb-3">Register</h4>
-				<form class="needs-validation" novalidate="">
+				<form class="needs-validation" novalidate>
 					<div class="row g-3">
-						<div class="col-sm-4">
-							<label for="firstName" class="form-label"
-								>First name</label
-							>
+						<div class="form-floating col-sm-4">
+							<label for="firstName">First name</label>
 							<input
 								type="text"
 								class="form-control"
 								id="firstName"
-								placeholder=""
+								placeholder="First name"
 								value=""
 								required=""
 							/>
@@ -22,15 +20,13 @@
 							</div>
 						</div>
 
-						<div class="col-sm-4">
-							<label for="middleName" class="form-label"
-								>Middle name</label
-							>
+						<div class="form-floating col-sm-4">
+							<label for="middleName">Middle name</label>
 							<input
 								type="text"
 								class="form-control"
 								id="middleName"
-								placeholder=""
+								placeholder="Middle Name"
 								value=""
 								required=""
 							/>
@@ -39,15 +35,13 @@
 							</div>
 						</div>
 
-						<div class="col-sm-4">
-							<label for="lastName" class="form-label"
-								>Last name</label
-							>
+						<div class="form-floating col-sm-4">
+							<label for="lastName">Last name</label>
 							<input
 								type="text"
 								class="form-control"
 								id="lastName"
-								placeholder=""
+								placeholder="Last Name"
 								value=""
 								required=""
 							/>
@@ -55,18 +49,15 @@
 								Valid last name is required.
 							</div>
 						</div>
-						<div class="col-12">
-							<label
-								for="universityRollNumber"
-								class="form-label"
-							>
-								University Roll Number
+						<div class="form-floating col-12">
+							<label for="universityRollNumber">
+								University roll number
 							</label>
 							<input
 								type="text"
 								class="form-control"
 								id="universityRollNumber"
-								placeholder=""
+								placeholder="University roll number"
 								value=""
 								required=""
 							/>
@@ -77,9 +68,7 @@
 
 						<div class="col-12">
 							<!-- TODO check a valid username by calling an API -->
-							<label for="username" class="form-label">
-								Username
-							</label>
+							<label for="username" class="form-label"> </label>
 							<div class="input-group has-validation">
 								<span class="input-group-text">@</span>
 								<input
@@ -93,63 +82,62 @@
 									A valid username is required.
 								</div>
 							</div>
-						</div>
-						<div class="col-12">
-							<div class="mb-3">
-								<label for="password" class="form-label"
-									>Password</label
-								>
-								<input
-									type="password"
-									class="form-control"
-									id="password"
-								/>
-							</div>
-							<div class="mb-3">
-								<label for="conformPassword" class="form-label"
-									>Confirm Password</label
-								>
-								<input
-									type="password"
-									class="form-control"
-									id="conformPassword"
-								/>
-							</div>
-						</div>
-
-						<div class="col-12">
-							<label for="email" class="form-label"
-								>University Email Address
-								<!-- <span class="text-body-secondary">
-									(Optional)
-								</span> -->
-							</label>
-							<div class="input-group mb-3">
+							<label for="email" class="form-label"> </label>
+							<div class="input-group col-sm-4 mb-3">
 								<input
 									type="text"
 									class="form-control"
 									aria-label="email"
 									aria-describedby="basic-addon2"
+									placeholder="University Email Address"
 								/>
 								<span class="input-group-text" id="basic-addon2"
 									>@gla.ac.in</span
 								>
+								<div class="invalid-feedback">
+									Please enter a valid email address for event
+									updates.
+								</div>
 							</div>
-							<div class="invalid-feedback">
-								Please enter a valid email address for event
-								updates.
+							<div class="col-12">
+								<div class="form-floating mb-3">
+									<label for="password" class="form-label"
+										>Password</label
+									>
+									<input
+										type="password"
+										class="form-control"
+										id="password"
+										placeholder="Password"
+									/>
+								</div>
+								<div class="form-floating mb-1">
+									<label
+										for="conformPassword"
+										class="form-label"
+										>Confirm Password</label
+									>
+									<input
+										type="password"
+										class="form-control"
+										id="conformPassword"
+										placeholder="Conform password"
+									/>
+								</div>
 							</div>
+
+							<div class="col-12"></div>
 						</div>
 
-						<div class="col-12">
-							<label for="contactNumber" class="form-label">
+						<div class="form-floating col-12">
+							<label for="contactNumber">
 								Contact Number (OTP)
 							</label>
 							<input
 								type="tel"
 								class="form-control"
 								id="contactNumber"
-								placeholder=""
+								placeholder="Contact Number (OTP)"
 								required=""
 							/>
 							<div class="invalid-feedback">
@@ -171,7 +159,7 @@
 							</div>
 						</div>
 
-						<div class="col-12">
+						<div class="form-floating col-12">
 							<label for="whatsAppNumber" class="form-label">
 								Contact Number (WhatsApp)
 							</label>
@@ -179,7 +167,7 @@
 								type="tel"
 								class="form-control"
 								id="whatsAppNumber"
-								placeholder=""
+								placeholder="Contact Number (WhatsApp)"
 								required=""
 								disabled
 							/>
@@ -188,6 +176,7 @@
 							</div>
 						</div>
 
+						<!-- TODO remove if unnecessary -->
 						<!-- <div class="col-12">
 							<label for="address2" class="form-label"
 								>Address 2
