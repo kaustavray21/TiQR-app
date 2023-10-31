@@ -6,6 +6,7 @@ import { ForgotPasswordComponent } from './shared/forgot-password/forgot-passwor
 import { ResetPasswordComponent } from './shared/reset-password/reset-password.component';
 import { EventsComponent } from './shared/events/events.component';
 import { PageNotFoundComponent } from './shared/page-not-found/page-not-found.component';
+import { EventDetailsComponent } from './shared/event-details/event-details.component';
 
 const routes: Routes = [
 	{
@@ -35,6 +36,10 @@ const routes: Routes = [
 	{
 		path: 'events/:id',
 		component: EventsComponent,
+	},
+	{
+		path: 'event-details',
+		component: EventDetailsComponent,
 	},
 	{
 		path: '**',
