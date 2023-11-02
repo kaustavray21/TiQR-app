@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 	styleUrls: ['./events.component.scss'],
 })
 export class EventsComponent {
-	events: Number[] = [1, 2, 3, 4, 5];
+	events: Number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 	today: Date;
 
