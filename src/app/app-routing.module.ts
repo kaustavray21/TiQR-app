@@ -8,6 +8,7 @@ import { EventsComponent } from './shared/events/events.component';
 import { PageNotFoundComponent } from './shared/page-not-found/page-not-found.component';
 import { EventDetailsComponent } from './shared/event-details/event-details.component';
 import { ClubsComponent } from './shared/clubs/clubs.component';
+import { ClubDetailsComponent } from './shared/club-details/club-details.component';
 
 const routes: Routes = [
 	{
@@ -45,6 +46,10 @@ const routes: Routes = [
 	{
 		path: 'clubs',
 		component: ClubsComponent,
+	},
+	{
+		path: 'club-details',
+		component: ClubDetailsComponent,
 	},
 	{
 		path: '**',

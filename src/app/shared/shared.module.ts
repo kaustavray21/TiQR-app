@@ -10,10 +10,11 @@ import { EventsComponent } from './events/events.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { EventDetailsComponent } from './event-details/event-details.component';
 import { ClubsComponent } from './clubs/clubs.component';
+import { ClubDetailsComponent } from './club-details/club-details.component';
 
 @NgModule({
-	declarations: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent, ClubsComponent],
+	declarations: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent, ClubsComponent, ClubDetailsComponent],
 	imports: [CommonModule, AppRoutingModule, RouterModule],
-	exports: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent, ClubsComponent],
+	exports: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent, ClubsComponent, ClubDetailsComponent],
 })
 export class SharedModule {}
