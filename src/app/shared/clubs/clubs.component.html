@@ -1,20 +1,53 @@
 <div class="container">
 	<div class="row">
-		<div class="col-10 mt-5">
-			<div class="row">
-				<div class="card text-bg-dark card-item">
+		<div class="col mt-5">
+			<div class="row mx-auto align-items-center mb-5">
+				<div class="col-9">
+					<input
+						type="text"
+						name="eventSearch"
+						id="eventSearch"
+						class="form-control"
+						placeholder="search events"
+					/>
+				</div>
+
+				<div class="col-3">
+					<button type="button" class="btn btn-primary col-12">
+						search
+					</button>
+				</div>
+			</div>
+			<div class="col" *ngFor="let club of clubs">
+				<div class="card text-bg-dark card-item mt-5">
 					<img
 						src="../../../assets/images/club-card.jpg"
 						class="card-img img-card"
 						alt="..."
 					/>
 					<div class="card-img-overlay">
-						<h5 class="card-title">Card title</h5>
-						<p class="card-text">
-							This is a wider card with supporting text below as a
-							natural lead-in to additional content. This content
-							is a little bit longer.
+						<h5 class="card-title">
+							<a
+								class="text-white"
+								[routerLink]="['/club-details']"
+								routerLinkActive="router-link-active"
+							>
+								Club Name
+							</a>
+						</h5>
+						<p class="card-text text">
+							This club is one of the best clubs of the
+							university. Standing tall for over a decade, this
+							club has organized several events, including
+							international conferences.
 						</p>
+						<div class="position-absolute bottom-0 end-0">
+							<p class="text-xxl-end px-5">
+								"Only the very weak-minded refuse to be
+								influenced by literature and poetry." ~Cassandra
+								Clare
+							</p>
+						</div>
 					</div>
 				</div>
 			</div>

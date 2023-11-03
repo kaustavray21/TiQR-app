@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-clubs',
-  templateUrl: './clubs.component.html',
-  styleUrls: ['./clubs.component.scss']
+	selector: 'app-clubs',
+	templateUrl: './clubs.component.html',
+	styleUrls: ['./clubs.component.scss'],
 })
 export class ClubsComponent {
-
+	clubs: Number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 }
