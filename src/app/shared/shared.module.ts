@@ -9,10 +9,11 @@ import { ResetPasswordComponent } from './reset-password/reset-password.componen
 import { EventsComponent } from './events/events.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { EventDetailsComponent } from './event-details/event-details.component';
+import { ClubsComponent } from './clubs/clubs.component';
 
 @NgModule({
-	declarations: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent],
+	declarations: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent, ClubsComponent],
 	imports: [CommonModule, AppRoutingModule, RouterModule],
-	exports: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent],
+	exports: [RegisterComponent, LoginComponent, ForgotPasswordComponent, ResetPasswordComponent, EventsComponent, PageNotFoundComponent, EventDetailsComponent, ClubsComponent],
 })
 export class SharedModule {}
