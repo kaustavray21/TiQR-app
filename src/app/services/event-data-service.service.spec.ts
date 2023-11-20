@@ -1,16 +1,16 @@
 import { TestBed } from '@angular/core/testing';
 
-import { EventDataServiceService } from './event-data-service.service';
+import { EventDataService } from './event-data-service.service';
 
 describe('EventDataServiceService', () => {
-  let service: EventDataServiceService;
+	let service: EventDataService;
 
-  beforeEach(() => {
-    TestBed.configureTestingModule({});
-    service = TestBed.inject(EventDataServiceService);
-  });
+	beforeEach(() => {
+		TestBed.configureTestingModule({});
+		service = TestBed.inject(EventDataService);
+	});
 
-  it('should be created', () => {
-    expect(service).toBeTruthy();
-  });
+	it('should be created', () => {
+		expect(service).toBeTruthy();
+	});
 });

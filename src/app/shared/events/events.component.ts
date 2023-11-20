@@ -1,5 +1,7 @@
 import { DatePipe } from '@angular/common';
 import { Component } from '@angular/core';
+import { Event } from 'src/app/models/event';
+import { EventDataService } from 'src/app/services/event-data-service.service';
 
 @Component({
 	selector: 'app-events',
@@ -7,11 +9,14 @@ import { Component } from '@angular/core';
 	styleUrls: ['./events.component.scss'],
 })
 export class EventsComponent {
-	events: Number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+	events: Event[] = [];
 
 	today: Date;
 
-	constructor() {
+	constructor(private eventDataService: EventDataService) {
 		this.today = new Date();
+		this.eventDataService.getEvents().subscribe((eventsData) => {
+			eventsData.map((event) => this.events.push(event));
+		});
 	}
 }

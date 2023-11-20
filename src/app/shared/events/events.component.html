@@ -34,9 +34,11 @@
 						/>
 						<hr class="mb-1" />
 						<div class="card-body">
-							<h5 class="card-title fw-bold">Event Title</h5>
+							<h5 class="card-title fw-bold">
+								{{ event.eventName }}
+							</h5>
 							<p class="card-text">
-								the events are part of our massive culture
+								{{ event.eventType }}
 							</p>
 							<div
 								class="d-flex justify-content-between align-items-center"
@@ -56,13 +58,16 @@
 
 									<button
 										type="button"
-										class="btn btn-sm btn-outline-secondary"
+										class="ms-1 btn btn-sm btn-outline-secondary"
 									>
 										Edit
 									</button>
 								</div>
 								<small class="text-body-secondary">
-									{{ today | date : "EEEE dd/MM/yyyy" }}
+									{{
+										event.eventDate
+											| date : "EEEE dd/MM/yyyy"
+									}}
 								</small>
 							</div>
 						</div>
