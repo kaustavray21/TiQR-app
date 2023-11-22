@@ -1,4 +1,4 @@
-export class clubs {
+export class Club {
 	id: number;
 	name: string;
 	motto: string;

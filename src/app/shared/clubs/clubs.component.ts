@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Club } from 'src/app/models/club';
 
 @Component({
 	selector: 'app-clubs',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
 	styleUrls: ['./clubs.component.scss'],
 })
 export class ClubsComponent {
-	clubs: Number[] = [];
+	clubs: Club[] = [];
 }
