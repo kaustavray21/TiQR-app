@@ -1,0 +1,534 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.4",
+  "deps": {
+    "@angular/animations": "^16.2.12",
+    "@angular/common": "^16.2.12",
+    "@angular/compiler": "^16.2.12",
+    "@angular/core": "^16.2.12",
+    "@angular/forms": "^16.2.12",
+    "@angular/platform-browser": "^16.2.12",
+    "@angular/platform-browser-dynamic": "^16.2.12",
+    "@angular/router": "^16.2.12",
+    "angular-cli-ghpages": "^1.0.7",
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.1",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.13.0",
+    "@angular-devkit/build-angular": "^16.2.9",
+    "@angular-devkit/core": "~16.2.9",
+    "@angular-devkit/schematics": "~16.2.9",
+    "@angular/cli": "~16.2.9",
+    "@angular/compiler-cli": "^16.2.12",
+    "@nx/angular": "18.0.4",
+    "@nx/workspace": "18.0.4",
+    "@schematics/angular": "~16.2.9",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.6.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "nx": "18.0.4",
+    "typescript": "~5.1.3"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "TiQR": [
+        {
+          "file": ".editorconfig",
+          "hash": "11933293496705268176"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "4872012189273141445"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "12343942279124280405"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "README.md",
+          "hash": "17906357480431875252"
+        },
+        {
+          "file": "dummy-events.json",
+          "hash": "8896729162505805171"
+        },
+        {
+          "file": "nx.json",
+          "hash": "1364645074839955932"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "7225587524354413730"
+        },
+        {
+          "file": "package.json",
+          "hash": "11707334070501541635",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:angular-cli-ghpages",
+            "npm:bootstrap",
+            "npm:bootstrap-icons",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular-devkit/core",
+            "npm:@angular-devkit/schematics",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@nx/angular",
+            "npm:@nx/workspace",
+            "npm:@schematics/angular",
+            "npm:@types/jasmine",
+            "npm:jasmine-core",
+            "npm:karma",
+            "npm:karma-chrome-launcher",
+            "npm:karma-coverage",
+            "npm:karma-jasmine",
+            "npm:karma-jasmine-html-reporter",
+            "npm:nx",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "project.json",
+          "hash": "14518982787301663562"
+        },
+        {
+          "file": "src/app/app-routing.module.ts",
+          "hash": "12789066721002159698",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.html",
+          "hash": "13467549588431529999"
+        },
+        {
+          "file": "src/app/app.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/app.component.spec.ts",
+          "hash": "15640094010126306917",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "10226684251918906293",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "5882950635898723017",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-browser",
+            "npm:@angular/router",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "src/app/core/core.module.ts",
+          "hash": "3812149232975087070",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/app/core/header/header.component.html",
+          "hash": "6067760361568821795"
+        },
+        {
+          "file": "src/app/core/header/header.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/core/header/header.component.spec.ts",
+          "hash": "372101361241028373",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/core/header/header.component.ts",
+          "hash": "13131022369468614435",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/models/club-details.ts",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/models/club.ts",
+          "hash": "8680941680848297561"
+        },
+        {
+          "file": "src/app/models/event-details.ts",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/models/event.ts",
+          "hash": "11753478410955956462"
+        },
+        {
+          "file": "src/app/services/club-data.service.spec.ts",
+          "hash": "3540953446528353573",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/services/club-data.service.ts",
+          "hash": "17944003214835533500",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/services/dummy-events.json",
+          "hash": "2086553304421795815"
+        },
+        {
+          "file": "src/app/services/event-data-service.service.spec.ts",
+          "hash": "5425122742783420891",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/services/event-data-service.service.ts",
+          "hash": "11784809519670141594",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "src/app/shared/club-details/club-details.component.html",
+          "hash": "6010895792934361684"
+        },
+        {
+          "file": "src/app/shared/club-details/club-details.component.scss",
+          "hash": "12160196683669652205"
+        },
+        {
+          "file": "src/app/shared/club-details/club-details.component.spec.ts",
+          "hash": "7576885550101803419",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/club-details/club-details.component.ts",
+          "hash": "2054551314749169975",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/clubs/clubs.component.html",
+          "hash": "13916624902710337685"
+        },
+        {
+          "file": "src/app/shared/clubs/clubs.component.scss",
+          "hash": "7558820709567647181"
+        },
+        {
+          "file": "src/app/shared/clubs/clubs.component.spec.ts",
+          "hash": "12504251404496598440",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/clubs/clubs.component.ts",
+          "hash": "14123995533257309265",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/event-details/event-details.component.html",
+          "hash": "3652809214607906350"
+        },
+        {
+          "file": "src/app/shared/event-details/event-details.component.scss",
+          "hash": "12174154268856024411"
+        },
+        {
+          "file": "src/app/shared/event-details/event-details.component.spec.ts",
+          "hash": "10128552821497663463",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/event-details/event-details.component.ts",
+          "hash": "12551358895687687389",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/events/events.component.html",
+          "hash": "9245512654430233693"
+        },
+        {
+          "file": "src/app/shared/events/events.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shared/events/events.component.spec.ts",
+          "hash": "8449551661069380503",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/events/events.component.ts",
+          "hash": "15327682065675881636",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/forgot-password/forgot-password.component.html",
+          "hash": "17252756659879283561"
+        },
+        {
+          "file": "src/app/shared/forgot-password/forgot-password.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shared/forgot-password/forgot-password.component.spec.ts",
+          "hash": "12330384336393731264",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/forgot-password/forgot-password.component.ts",
+          "hash": "14153759474578924577",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/login/login.component.html",
+          "hash": "727669731720407912"
+        },
+        {
+          "file": "src/app/shared/login/login.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shared/login/login.component.spec.ts",
+          "hash": "15222502735042189921",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/login/login.component.ts",
+          "hash": "14494063289148710323",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/page-not-found/page-not-found.component.html",
+          "hash": "12983875382338954366"
+        },
+        {
+          "file": "src/app/shared/page-not-found/page-not-found.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shared/page-not-found/page-not-found.component.spec.ts",
+          "hash": "4266285370415485741",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/page-not-found/page-not-found.component.ts",
+          "hash": "7483924214391919712",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/register/register.component.html",
+          "hash": "1223187880790294216"
+        },
+        {
+          "file": "src/app/shared/register/register.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shared/register/register.component.spec.ts",
+          "hash": "6877038197976814006",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/register/register.component.ts",
+          "hash": "5634047855484227094",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/reset-password/reset-password.component.html",
+          "hash": "8856157151771351923"
+        },
+        {
+          "file": "src/app/shared/reset-password/reset-password.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/app/shared/reset-password/reset-password.component.spec.ts",
+          "hash": "1994815227877521791",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/reset-password/reset-password.component.ts",
+          "hash": "3554165860361026141",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "src/app/shared/shared.module.ts",
+          "hash": "16712863571880082808",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/assets/images/404.svg",
+          "hash": "12084332276893012341"
+        },
+        {
+          "file": "src/assets/images/club-card.jpg",
+          "hash": "11639134261458944800"
+        },
+        {
+          "file": "src/assets/images/club-details-carousel.svg",
+          "hash": "12558681734542282659"
+        },
+        {
+          "file": "src/assets/images/club-logo.svg",
+          "hash": "6745382251161844144"
+        },
+        {
+          "file": "src/assets/images/club-page.jpg",
+          "hash": "213841289121052982"
+        },
+        {
+          "file": "src/assets/images/cover-1.jpg",
+          "hash": "9931602434101526864"
+        },
+        {
+          "file": "src/assets/images/cover-2.jpeg",
+          "hash": "4538785503528429600"
+        },
+        {
+          "file": "src/assets/images/cover-3.jpg",
+          "hash": "1919815859709330615"
+        },
+        {
+          "file": "src/assets/images/event-card.svg",
+          "hash": "11685844684815681102"
+        },
+        {
+          "file": "src/assets/images/event-detail-card.svg",
+          "hash": "14414220654042876707"
+        },
+        {
+          "file": "src/assets/images/person-circle.svg",
+          "hash": "9002405131055825711"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "7878111296901736583"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "5228686454389918226",
+          "deps": [
+            "npm:@angular/platform-browser-dynamic"
+          ]
+        },
+        {
+          "file": "src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "17337579397915052279"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "1047940026627514556"
+        },
+        {
+          "file": "tsconfig.spec.json",
+          "hash": "15575553540147145788"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1225 @@
+[NX Daemon Server] - 2024-02-19T08:10:11.474Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-02-19T08:10:11.493Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-02-19T08:10:11.494Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-02-19T08:10:11.496Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-02-19T08:10:11.496Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-02-19T08:10:11.500Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-02-19T08:10:11.687Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-02-19T08:10:11.687Z - [REQUEST]: 
+[NX Daemon Server] - 2024-02-19T08:10:11.687Z - [REQUEST]: 
+[NX Daemon Server] - 2024-02-19T08:10:13.281Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-02-19T08:10:13.282Z - Time taken for 'total for creating and serializing project graph' 1781.3295999988914ms
+[NX Daemon Server] - 2024-02-19T08:10:13.283Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-02-19T08:10:13.283Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1782. Response time: 2.
+[NX Daemon Server] - 2024-02-19T08:10:13.288Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-02-19T08:10:13.288Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-02-19T08:10:13.288Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-02-19T08:10:13.290Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-14T07:45:46.863Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-14T07:45:46.876Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-14T07:45:46.878Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-14T07:45:46.879Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-14T07:45:46.882Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-14T07:45:46.887Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-14T07:45:46.892Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-14T07:45:46.893Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-14T07:45:46.893Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-14T07:45:47.321Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-14T07:45:47.325Z - Time taken for 'total for creating and serializing project graph' 434.29449999704957ms
+[NX Daemon Server] - 2024-03-14T07:45:47.325Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-14T07:45:47.326Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 434. Response time: 5.
+[NX Daemon Server] - 2024-03-14T07:45:47.342Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-14T07:45:47.342Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-14T07:45:47.342Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-03-14T07:45:47.348Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T03:16:53.382Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T03:16:53.388Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T03:16:53.389Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T03:16:53.390Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T03:16:53.391Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T03:16:53.392Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T03:16:53.395Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T03:16:53.395Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T03:16:53.395Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T03:16:53.584Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-18T03:16:53.587Z - Time taken for 'total for creating and serializing project graph' 191.50669999420643ms
+[NX Daemon Server] - 2024-03-18T03:16:53.587Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-18T03:16:53.587Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 192. Response time: 3.
+[NX Daemon Server] - 2024-03-18T03:16:53.593Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-18T03:16:53.593Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-18T03:16:53.593Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-03-18T03:16:53.594Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T03:17:09.016Z - [WATCHER]: dummy-events.json was created or restored
+[NX Daemon Server] - 2024-03-18T03:17:09.019Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-18T03:17:09.123Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T03:17:09.123Z - [REQUEST]: dummy-events.json
+[NX Daemon Server] - 2024-03-18T03:17:09.123Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T03:17:09.598Z - Time taken for 'hash changed files from watcher' 0.5582999885082245ms
+[NX Daemon Server] - 2024-03-18T03:17:10.037Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T03:17:10.037Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T03:17:10.038Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T03:17:10.040Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T03:17:10.040Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-18T03:17:10.042Z - Time taken for 'total for creating and serializing project graph' 0.3742000013589859ms
+[NX Daemon Server] - 2024-03-18T03:17:10.042Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-18T03:17:10.042Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-03-18T03:17:10.049Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-18T03:17:10.049Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-18T03:17:10.049Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-03-18T03:17:10.050Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T03:41:24.845Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T03:41:24.848Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T03:41:24.856Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T03:41:24.857Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T03:41:24.857Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T03:41:24.859Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T03:41:24.861Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T03:41:24.862Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T03:41:24.862Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T03:41:24.980Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-18T03:41:24.984Z - Time taken for 'total for creating and serializing project graph' 121.37029999494553ms
+[NX Daemon Server] - 2024-03-18T03:41:24.984Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-18T03:41:24.984Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 121. Response time: 4.
+[NX Daemon Server] - 2024-03-18T03:41:24.991Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-18T03:41:24.991Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-18T03:41:24.991Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-03-18T03:41:24.992Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:19:34.300Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:19:34.300Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:19:34.302Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:19:34.308Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:19:34.308Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-18T06:19:34.311Z - Time taken for 'total for creating and serializing project graph' 0.5148000121116638ms
+[NX Daemon Server] - 2024-03-18T06:19:34.313Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-18T06:19:34.313Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 5.
+[NX Daemon Server] - 2024-03-18T06:19:34.407Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-03-18T06:19:34.409Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-03-18T06:19:34.409Z - Handled HASH_TASKS. Handling time: 32. Response time: 2.
+[NX Daemon Server] - 2024-03-18T06:19:35.662Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2024-03-18T06:19:35.663Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2024-03-18T06:19:35.663Z - Handled RECORD_OUTPUTS_HASH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-03-18T06:19:35.678Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:20:50.042Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-18T06:20:50.048Z - [WATCHER]: Stopping the watcher for c:\Users\kaust\Documents\projects\TiQR (sources)
+[NX Daemon Server] - 2024-03-18T06:20:51.721Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:20:51.726Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:20:51.728Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:20:51.730Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:20:51.730Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:20:51.733Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:20:51.735Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:20:51.735Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:20:51.735Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:20:51.909Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:20:51.909Z - Time taken for 'hash changed files from watcher' 0.94200000166893ms
+[NX Daemon Server] - 2024-03-18T06:20:51.910Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:20:53.768Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:20:53.772Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:20:53.776Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:20:53.777Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:20:53.777Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:20:53.779Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:20:53.782Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:20:53.782Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:20:53.782Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:20:53.910Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:20:53.911Z - Time taken for 'hash changed files from watcher' 0.8754000067710876ms
+[NX Daemon Server] - 2024-03-18T06:20:53.913Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:20:58.800Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:20:58.806Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:20:58.807Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:20:58.808Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T06:20:58.809Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:20:58.812Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:20:58.815Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:20:58.815Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:20:58.815Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:20:58.976Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:20:58.977Z - Time taken for 'hash changed files from watcher' 1.048200011253357ms
+[NX Daemon Server] - 2024-03-18T06:20:58.978Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:21:08.852Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:21:08.857Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:21:08.867Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:21:08.868Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:21:08.868Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:21:08.872Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:21:08.874Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:21:08.874Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:21:08.874Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:21:09.003Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:21:09.004Z - Time taken for 'hash changed files from watcher' 1.0055999755859375ms
+[NX Daemon Server] - 2024-03-18T06:21:09.004Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:21:25.659Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:21:25.662Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:21:25.667Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:21:25.668Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:21:25.668Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:21:25.669Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:21:25.671Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:21:25.671Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:21:25.671Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:21:25.742Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:21:25.743Z - Time taken for 'hash changed files from watcher' 0.6570000052452087ms
+[NX Daemon Server] - 2024-03-18T06:21:25.743Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:21:51.269Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:21:51.273Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:21:51.282Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:21:51.284Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:21:51.284Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:21:51.286Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:21:51.287Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:21:51.287Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:21:51.287Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:21:51.375Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:21:51.375Z - Time taken for 'hash changed files from watcher' 0.7072000205516815ms
+[NX Daemon Server] - 2024-03-18T06:21:51.376Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:26:19.433Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:26:19.438Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:26:19.439Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:19.440Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:26:19.441Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:19.444Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:26:19.446Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:26:19.446Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:19.446Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:19.539Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:26:19.539Z - Time taken for 'hash changed files from watcher' 1.0692000091075897ms
+[NX Daemon Server] - 2024-03-18T06:26:19.540Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:26:21.085Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:26:21.089Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:26:21.099Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:21.099Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:26:21.100Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:21.101Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:26:21.102Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:26:21.102Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:21.102Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:21.197Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:26:21.198Z - Time taken for 'hash changed files from watcher' 0.6286999881267548ms
+[NX Daemon Server] - 2024-03-18T06:26:21.198Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:26:26.122Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:26:26.127Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:26:26.129Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:26.129Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T06:26:26.130Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:26.133Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:26:26.135Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:26:26.135Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:26.135Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:26.244Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:26:26.244Z - Time taken for 'hash changed files from watcher' 1.0703999996185303ms
+[NX Daemon Server] - 2024-03-18T06:26:26.245Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:26:26.908Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:26:26.913Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:26:26.920Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:26.921Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:26:26.921Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:26.923Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:26:26.924Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:26:26.924Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:26.924Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:27.031Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:26:27.032Z - Time taken for 'hash changed files from watcher' 0.6592999994754791ms
+[NX Daemon Server] - 2024-03-18T06:26:27.032Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:26:35.832Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:26:35.836Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:26:35.839Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:35.839Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:26:35.840Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:35.842Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:26:35.843Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:26:35.843Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:35.844Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:35.932Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:26:35.932Z - Time taken for 'hash changed files from watcher' 0.7669999897480011ms
+[NX Daemon Server] - 2024-03-18T06:26:35.933Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:26:43.609Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:26:43.613Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:26:43.619Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:43.620Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:26:43.620Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:26:43.622Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:26:43.623Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:26:43.623Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:43.623Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:26:43.710Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:26:43.711Z - Time taken for 'hash changed files from watcher' 0.6581999957561493ms
+[NX Daemon Server] - 2024-03-18T06:26:43.711Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:27:01.421Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:27:01.425Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:27:01.426Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:01.427Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T06:27:01.427Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:01.429Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:27:01.431Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:27:01.431Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:01.431Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:01.515Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:27:01.516Z - Time taken for 'hash changed files from watcher' 0.886599987745285ms
+[NX Daemon Server] - 2024-03-18T06:27:01.516Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:27:03.179Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:27:03.184Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:27:03.192Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:03.193Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:27:03.193Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:03.194Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:27:03.196Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:27:03.196Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:03.196Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:03.278Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:27:03.279Z - Time taken for 'hash changed files from watcher' 0.7076999843120575ms
+[NX Daemon Server] - 2024-03-18T06:27:03.279Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:27:07.764Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:27:07.769Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:27:07.770Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:07.771Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T06:27:07.772Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:07.774Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:27:07.776Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:27:07.776Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:07.776Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:07.929Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:27:07.930Z - Time taken for 'hash changed files from watcher' 0.8712000250816345ms
+[NX Daemon Server] - 2024-03-18T06:27:07.931Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:27:17.618Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:27:17.622Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:27:17.630Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:17.630Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:27:17.631Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:17.632Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:27:17.633Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:27:17.634Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:17.634Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:17.719Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:27:17.720Z - Time taken for 'hash changed files from watcher' 0.655599981546402ms
+[NX Daemon Server] - 2024-03-18T06:27:17.720Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:27:35.128Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:27:35.136Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:27:35.142Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:35.147Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:27:35.147Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:27:35.152Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:27:35.157Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:27:35.157Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:35.157Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:27:35.370Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:27:35.371Z - Time taken for 'hash changed files from watcher' 3.1735000014305115ms
+[NX Daemon Server] - 2024-03-18T06:27:35.372Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T06:28:01.193Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T06:28:01.198Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T06:28:01.205Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:28:01.206Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T06:28:01.206Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T06:28:01.208Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T06:28:01.210Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T06:28:01.210Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:28:01.211Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T06:28:01.329Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T06:28:01.329Z - Time taken for 'hash changed files from watcher' 1.044600009918213ms
+[NX Daemon Server] - 2024-03-18T06:28:01.329Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:00.387Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:00.392Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:00.402Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:00.403Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:00.403Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:00.405Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:00.410Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:00.410Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:00.410Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:00.595Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:00.597Z - Time taken for 'hash changed files from watcher' 1.6059999987483025ms
+[NX Daemon Server] - 2024-03-18T17:22:00.597Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:02.313Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:02.316Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:02.326Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:02.327Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:02.327Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:02.329Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:02.331Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:02.332Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:02.332Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:02.444Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:02.445Z - Time taken for 'hash changed files from watcher' 0.9107000008225441ms
+[NX Daemon Server] - 2024-03-18T17:22:02.445Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:03.889Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:03.891Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:03.899Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:03.900Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:03.901Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:03.903Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:03.904Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:03.904Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:03.904Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:03.973Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:03.973Z - Time taken for 'hash changed files from watcher' 0.5945999994874ms
+[NX Daemon Server] - 2024-03-18T17:22:03.973Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:05.750Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:05.757Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:05.765Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:05.766Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:05.767Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:05.769Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:05.773Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:05.773Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:05.773Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:05.917Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:05.919Z - Time taken for 'hash changed files from watcher' 1.0503999963402748ms
+[NX Daemon Server] - 2024-03-18T17:22:05.919Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:07.794Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:07.801Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:07.803Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:07.804Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:07.805Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:07.809Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:07.811Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:07.811Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:07.812Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:07.991Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:07.992Z - Time taken for 'hash changed files from watcher' 1.1489000022411346ms
+[NX Daemon Server] - 2024-03-18T17:22:07.992Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:08.701Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:08.705Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:08.708Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:08.709Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:08.709Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:08.711Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:08.713Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:08.713Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:08.713Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:08.847Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:08.848Z - Time taken for 'hash changed files from watcher' 0.937899999320507ms
+[NX Daemon Server] - 2024-03-18T17:22:08.848Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:10.521Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:10.525Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:10.527Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:10.527Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:10.528Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:10.530Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:10.533Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:10.533Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:10.534Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:10.678Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:10.679Z - Time taken for 'hash changed files from watcher' 2.3162999972701073ms
+[NX Daemon Server] - 2024-03-18T17:22:10.679Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:12.369Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:12.374Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:12.375Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:12.376Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:12.377Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:12.378Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:12.380Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:12.381Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:12.381Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:12.515Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:12.516Z - Time taken for 'hash changed files from watcher' 1.1535000056028366ms
+[NX Daemon Server] - 2024-03-18T17:22:12.517Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:14.280Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:14.284Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:14.287Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:14.288Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:14.289Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:14.291Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:14.293Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:14.293Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:14.293Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:14.420Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:14.421Z - Time taken for 'hash changed files from watcher' 1.0122999995946884ms
+[NX Daemon Server] - 2024-03-18T17:22:14.421Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:15.819Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:15.826Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:15.829Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:15.830Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:15.831Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:15.833Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:15.835Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:15.836Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:15.836Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:16.000Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:16.002Z - Time taken for 'hash changed files from watcher' 1.1741999983787537ms
+[NX Daemon Server] - 2024-03-18T17:22:16.002Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:17.804Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:17.810Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:17.812Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:17.813Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:17.813Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:17.816Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:17.818Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:17.819Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:17.819Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:17.992Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:17.993Z - Time taken for 'hash changed files from watcher' 1.1162000000476837ms
+[NX Daemon Server] - 2024-03-18T17:22:17.994Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:19.391Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:19.396Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:19.399Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:19.401Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:19.401Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:19.404Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:19.406Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:19.406Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:19.406Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:19.558Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:19.560Z - Time taken for 'hash changed files from watcher' 1.3258000016212463ms
+[NX Daemon Server] - 2024-03-18T17:22:19.560Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:21.375Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:21.381Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:21.399Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:21.401Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:21.402Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:21.404Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:21.406Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:21.407Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:21.407Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:21.558Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:21.560Z - Time taken for 'hash changed files from watcher' 1.1150999963283539ms
+[NX Daemon Server] - 2024-03-18T17:22:21.560Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:23.422Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:23.428Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:23.434Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:23.436Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-18T17:22:23.437Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:23.441Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:23.444Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:23.444Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:23.445Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:23.619Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:23.620Z - Time taken for 'hash changed files from watcher' 1.2990000024437904ms
+[NX Daemon Server] - 2024-03-18T17:22:23.620Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:25.049Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:25.054Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:25.057Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:25.058Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:25.059Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:25.062Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:25.065Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:25.065Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:25.065Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:25.233Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:25.234Z - Time taken for 'hash changed files from watcher' 1.255500003695488ms
+[NX Daemon Server] - 2024-03-18T17:22:25.235Z - Done responding to the client null
+[NX Daemon Server] - 2024-03-18T17:22:25.871Z - Started listening on: \\.\pipe\nx\C:\Users\kaust\AppData\Local\Temp\9bd6fefb3d00a886881c\d.sock
+[NX Daemon Server] - 2024-03-18T17:22:25.877Z - [WATCHER]: Subscribed to changes within: c:\Users\kaust\Documents\projects\TiQR (native)
+[NX Daemon Server] - 2024-03-18T17:22:25.878Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:25.879Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-18T17:22:25.880Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-18T17:22:25.881Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-18T17:22:25.883Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-18T17:22:25.883Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:25.883Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-18T17:22:26.006Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:22:26.007Z - Time taken for 'hash changed files from watcher' 1.0456999987363815ms
+[NX Daemon Server] - 2024-03-18T17:22:26.008Z - Done responding to the client null

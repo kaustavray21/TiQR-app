@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve",
+    "startTime": "2024-03-18T06:19:34.410Z",
+    "endTime": "2024-03-18T06:19:35.665Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "TiQR:serve:development",
+      "target": "serve",
+      "projectName": "TiQR",
+      "hash": "456729237560646635",
+      "startTime": "2024-03-18T06:19:34.426Z",
+      "endTime": "2024-03-18T06:19:35.664Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
