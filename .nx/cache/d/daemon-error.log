@@ -1,0 +1,26 @@
+Daemon process terminated and closed the connection
+
+Messages from the log:
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- TiQR: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:249:15)
+    at c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:208:26
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async c:\Users\kaust\Documents\projects\TiQR\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-03-18T17:30:39.418Z - Time taken for 'hash changed files from watcher' 1.3255999982357025ms
+[NX Daemon Server] - 2024-03-18T17:30:39.420Z - Done responding to the client null
+
+
+
+More information: c:\Users\kaust\Documents\projects\TiQR\.nx\cache\d\daemon.log
